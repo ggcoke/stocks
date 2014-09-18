@@ -7,7 +7,7 @@ import wmcloud_helper
 
 HOST = 'api.wmcloud.com'
 PORT = 9763
-TOKEN = 'bc486a2662eb4a2e4d19a0f15abfbddc'
+TOKEN = 'token'
 
 
 if __name__ == '__main__':
